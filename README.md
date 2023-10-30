@@ -11,8 +11,8 @@ Dive into our Excel models that demonstrate how to analyze complex datasets and 
 🌱 **Power BI Dashboards:** 
 Explore our Power BI dashboards that showcase stunning data visualizations and in-depth analysis of various business scenarios.
 
-**Custom Dashboards:**
-👀 Watch some of our videos sharing some of our developed custom dashboards using HTML, JavaScript and Python.
+👀**Custom Dashboards:**
+Watch some of our videos sharing some of our developed custom dashboards using HTML, JavaScript and Python.
 
 **SQL Scripts:** 
 Access our SQL scripts that provide robust database solutions for data management and retrieval.
