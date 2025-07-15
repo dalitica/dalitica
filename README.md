@@ -1,22 +1,37 @@
-👋 Welcome to Dalitica's GitHub Profile! 👋 
+# Hi there, I'm **Felipe**
 
-At Dalitica, we are passionate about using data to drive better decisions!
+**Fintech Entrepreneur | Founder @ Fibek / Dalitica | Building the Future of B2B Credit**
 
-**Our Projects** 
-Here, you'll find a collection of our open-source projects, showcasing our commitment to excellence in data analytics. 
+I empower companies to get paid on time and grow through data‑driven credit solutions.
 
-💞️**Excel Reports:** 
-Dive into our Excel models that demonstrate how to analyze complex datasets and create interactive reports to support decision-making.
+---
 
-🌱 **Power BI Dashboards:** 
-Explore our Power BI dashboards that showcase stunning data visualizations and in-depth analysis of various business scenarios.
+## What I'm Building
 
-👀**Custom Dashboards:**
-Watch some of our videos sharing some of our developed custom dashboards using HTML, JavaScript and Python.
+- **Fibek** – An automated accounts‑receivable platform with *embedded lending* that injects liquidity precisely when invoices need it.
+- **Dalitica** – A credit‑origination plataform that enables any financial institutions to offer digital experiences online.
 
-**SQL Scripts:** 
-Access our SQL scripts that provide robust database solutions for data management and retrieval.
+## Interests
 
-Happy analysis day!
-Dalitica Team
-📫 Reach us on info@dalitica.com
+- Credit‑risk modeling & Machine Learning (Azure AutoML, Python, scikit‑learn)
+- Open Finance, alternative data & embedded finance
+- Microservice back‑ends (NestJS, PostgreSQL, RabbitMQ)
+- AI‑powered products & data‑driven growth
+
+## Quick Facts
+
+- Former experience in distribution (Johnson & Johnson) and financial education.
+- Obsessed with optimizing collections and democratizing credit for SMEs.
+- Currently shipping an ML module that predicts invoice‑payment behaviour.
+
+## I'm Looking For
+
+- Learning, keep lernaing and working hard.
+
+## Connect with Me
+
+- **Email:** felipe@fibek.com
+
+---
+
+> *“It's never too late to start.”*
